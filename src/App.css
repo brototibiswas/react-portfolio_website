@@ -1,0 +1,25 @@
+:root {
+  --turquoise-light: #073B4C;
+  --turquoise-dark: #041F27;
+  --blue: #118AB2;
+  --yellow: #FFD166;
+  --red: #EF476F;
+  --mint: #06D6A0;
+  --white: #D9D9D9;
+}
+
+body{
+  background-color: var(--turquoise-light) !important;
+  font-family: 'Inter', sans-serif;
+}
+
+.nav-link {
+  color: var(--white) !important;
+  margin-right: 20px;
+  text-transform: uppercase;
+  font-weight: 200;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
