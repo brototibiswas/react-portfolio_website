@@ -17,7 +17,7 @@ let links = [
 
 const NavBar = () => {
   return (
-    <nav className="navbar navbar-expand sticky-top mt-3">
+    <nav className="navbar navbar-expand sticky-top mt-4">
       <div className="container-fluid">
         <button
           className="navbar-toggler"
